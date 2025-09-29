@@ -32,4 +32,8 @@ This project demonstrates the power of Excel in building interactive dashboards 
 
 ## 📂 Repository Structure
 
+📁 Excel_Dashboard_Project
+├── README.md                        # Project overview and documentation
+├── Vrinda Store Data Analysis.xlsx # Excel dashboard with visual analytics
+├── Project Dashboard Img.png       # Image preview of the dashboard
 
